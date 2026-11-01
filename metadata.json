@@ -1,0 +1,6 @@
+{
+  "name": "Job Milega - Recruitment & Hiring Platform",
+  "description": "Comprehensive job and hiring platform for blue-collar, service, BPO, hotel operations, corporate, and IT segments with AI resume scanning, real-time recruiter chat, interview scheduling, analytics, and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
